@@ -1,6 +1,14 @@
 # This repo is dedicated to the projects I create while learning Web Devlopment
 
-## 2. Digital ID card:
+
+## 4. Birthday site:
+- Created ID Card for Lesson 5 Project ([HTML & CSS Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
+- **Key**: HTML, CSS- Hover 
+### Live Site: [https://vijay-wayn-happy-birthday.netlify.app](https://vijay-wayn-happy-birthday.netlify.app)
+### Preview:
+<img src="https://github.com/user-attachments/assets/fefb49f5-3027-4ce2-862d-87e63eee3959" width="500">
+
+## 3. Digital ID card:
 - Created ID Card for Lesson 1 Project ([HTML & CSS Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
 - **Key**: HTML, Basic CSS, Git, Hosting from Git -> Netlify
 ### Live Site: https://naveen-digital-id.netlify.app/
