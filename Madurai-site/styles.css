@@ -68,3 +68,35 @@ img{
 #profile-img{
   width: 150px;
 }
+
+footer{
+  background-color: #D9D9D9;
+  padding: 25px;
+  border-radius: 6px
+}
+
+button{;
+  border-radius: 6px;
+  padding: 4px 12px;
+  border: 1px solid #333333;
+}
+
+#linkedin{
+  background-color: #0077B5;
+}
+
+#github{
+  background-color: #171515;
+}
+
+a{
+  text-decoration: none;
+  color: #ffffff ;
+  font-weight: 700;
+}
+
+#link{
+  color: rgb(60, 85, 230);
+  font-weight: 900;
+
+}
