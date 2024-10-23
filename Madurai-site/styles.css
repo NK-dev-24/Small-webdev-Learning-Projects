@@ -65,8 +65,16 @@ img{
   padding: 20px;
 }
 
-#profile-img{
-  width: 150px;
+.profile-img{
+  background: url("images/Profile.png");
+  width:150px;
+  height: 150px;
+  background-size: contain;
+}
+
+.profile-img:hover{
+  border-radius: 100px;
+  background-image: url("images/nk.jpg");
 }
 
 footer{
@@ -75,7 +83,7 @@ footer{
   border-radius: 6px
 }
 
-button{;
+button{
   border-radius: 6px;
   padding: 4px 12px;
   border: 1px solid #333333;
