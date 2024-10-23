@@ -1,7 +1,7 @@
 # This repo is dedicated to the projects I create while learning Web Devlopment
 
 ## 5. HomeTown Site - Madurai Edition:
-- Solo challange - just with Rules & Requiremets Final project in ([HTML & CSS Scrimba Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
+- Solo challange - Completly from scratch just with Rules & Requiremets  as a Final project in ([HTML & CSS Scrimba Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
 - **Key** 
   - Designed in **Figma** -> [Madurai-site-figma-design.pdf](https://github.com/user-attachments/files/17486255/Madurai-site-figma-design.pdf)
   - Set **Github** repo
