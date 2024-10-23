@@ -1,15 +1,26 @@
 # This repo is dedicated to the projects I create while learning Web Devlopment
 
+## 5. HomeTown Site - Madurai Edition:
+- Solo challange - Completly from scratch just with Rules & Requiremets  as a Final project in ([HTML & CSS Scrimba Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
+- **Key** 
+  - Designed in **Figma** -> [Madurai-site-figma-design.pdf](https://github.com/user-attachments/files/17486255/Madurai-site-figma-design.pdf)
+  - Set **Github** repo
+  - Clone repo to local with **Git**
+  - Code in **VSCode**, Commit & Push regularly into github repo
+  - Deploy the site in **Netlify** from github repo
+### Live Site: https://visit-madurai.netlify.app
+### Preview: 
+<img src="https://github.com/user-attachments/assets/8058e861-efc9-4bb5-83b2-ffd1fde2f618" width="500">
 
 ## 4. Birthday site:
-- Created ID Card for Lesson 5 Project ([HTML & CSS Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
-- **Key**: HTML, CSS- Hover 
+- Created site for Belated Bday wishes to my friend as a project for module 5 in ([HTML & CSS Scrimba Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
+- **Key**: HTML, CSS- Hover, flex
 ### Live Site: [https://vijay-wayn-happy-birthday.netlify.app](https://vijay-wayn-happy-birthday.netlify.app)
 ### Preview:
 <img src="https://github.com/user-attachments/assets/fefb49f5-3027-4ce2-862d-87e63eee3959" width="500">
 
 ## 3. Digital ID card:
-- Created ID Card for Lesson 1 Project ([HTML & CSS Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
+- Created ID Card for Module 3 Project ([HTML & CSS Scrimba Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
 - **Key**: HTML, Basic CSS, Git, Hosting from Git -> Netlify
 ### Live Site: https://naveen-digital-id.netlify.app/
 ### Preview:
@@ -21,7 +32,6 @@
 P.s. Many miss out Open-Graph Tags(OG) - That helps to make the website card looks good while sharing as link
 ### Preview:
 <img src="https://github.com/user-attachments/assets/6a249e65-fcdf-4df5-8828-492ce6456f33" width="500">
-
 
 ## 1. Personal Site: 
 - A personal site project developed during HTML & CSS course in Scrimba
