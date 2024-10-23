@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: poppins, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2, h3{
+  
+}
+
+img{
+  width: 100px;
+  border-radius: 100px;
+}
+
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  justify-content:end;
+  height: 750px ;
+  width: 1450;
+  padding-bottom: 50px;
+  background-image: url(images/Maduraibackground.webp);
+  background-size: cover;
+}
+
+#hero-title, #hero-subtext{
+  align-self: center;
+  color: #ffffff;
+  background-color: #332722;
+  border: 3px solid #333333;
+  border-radius: 6px;
+  padding: 6px 16px;
+}
+
+#hero-subtext{
+  color: black;
+  background-color: #F2CABD;
+}
