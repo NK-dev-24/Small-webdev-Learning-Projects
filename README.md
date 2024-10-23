@@ -2,6 +2,7 @@
 
 ## 5. HomeTown Site - Madurai Edition:
 - Solo challange - Completly from scratch just with Rules & Requiremets  as a Final project in ([HTML & CSS Scrimba Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
+- Completed full project with **streach goals** 
 - **Key** 
   - Designed in **Figma** -> [Madurai-site-figma-design.pdf](https://github.com/user-attachments/files/17486255/Madurai-site-figma-design.pdf)
   - Set **Github** repo
