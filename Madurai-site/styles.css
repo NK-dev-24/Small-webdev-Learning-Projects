@@ -4,20 +4,16 @@ body{
   font-family: poppins, Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h2, h3{
-  
-}
-
 img{
   width: 100px;
   border-radius: 100px;
 }
 
-.hero-section {
+#hero-section {
   display: flex;
   flex-direction: column;
   justify-content:end;
-  height: 750px ;
+  height: 710px ;
   width: 1450;
   padding-bottom: 50px;
   background-image: url(images/Maduraibackground.webp);
@@ -25,6 +21,7 @@ img{
 }
 
 #hero-title, #hero-subtext{
+  font-size: x-large;
   align-self: center;
   color: #ffffff;
   background-color: #332722;
@@ -34,8 +31,25 @@ img{
 }
 
 #hero-subtext{
+  margin-top: 0px;
+  font-size: medium;
   color: black;
   background-color: #F2CABD;
+}
+
+#food-section{
+  margin-top: 60px;
+}
+
+#food-cards{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.food-card{
+  padding: 25px;
+  border-radius: 6px;
 }
 
 .Idcard{
@@ -43,7 +57,7 @@ img{
   width: 500px;
   align-items:center;
   justify-content:space-around;
-  margin: 50px auto 50px auto;
+  margin: 100px auto 50px auto;
   background-color: #F2CABD;
   box-shadow: -6px 6px #332722;
   border-radius: 6px ;
