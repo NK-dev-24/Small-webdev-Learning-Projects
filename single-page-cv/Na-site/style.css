@@ -1,0 +1,21 @@
+body{
+  font-family: 'Poppins';
+  margin: 50px;
+}
+
+h3{
+  color: rgb(35, 203, 35);
+  font-size: medium;
+}
+
+h4{
+  color: rgb(65, 65, 229);
+}
+
+hr{
+  width: 60%; 
+  margin-left: 0px; 
+  margin-top: 40px;
+  border-color: black;
+
+}
