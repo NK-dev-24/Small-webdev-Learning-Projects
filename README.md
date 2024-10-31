@@ -1,5 +1,17 @@
 # This repo is dedicated to the projects I create while learning Web Devlopment
+# JS + HTML & CSS
+## 1. Add user page
+- A input page that adds user input data to ui, display error if not entered properly using DOM Manupulation
+- For mini project: in [JS Crash course ](https://youtu.be/hdI2bqOjy3c?si=q_tEcfbWXL14diNl&t=5460)
+- Key: Basic JS, DOM Manupulation
+- **Live Preview**: [Add User Page](https://add-user-page.netlify.app)
+### Preview: 
+<img src="https://github.com/user-attachments/assets/6609c90b-2de2-4615-b776-f9395cae5f25" width="500">
+<img src="https://github.com/user-attachments/assets/9e086b9d-4eb4-4048-9963-402eca0c91f7" width="500">
+<img src="https://github.com/user-attachments/assets/3f23dd16-a285-46ca-bb19-f6000950794a" width="497">
+<img src="https://github.com/user-attachments/assets/0f18c666-6fb8-4429-93d2-45fe8ee181b3" width="500">
 
+# Only HTML & CSS 
 ## 5. HomeTown Site - Madurai Edition:
 - Solo challange - Completly from scratch just with Rules & Requiremets  as a Final project in ([HTML & CSS Scrimba Course - Youtube](https://youtu.be/a_iQb1lnAEQ?si=Djh9y_lEJMT3THEx))
 - Completed full project with **streach goals** 
